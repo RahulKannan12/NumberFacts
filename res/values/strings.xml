@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Number Facts</string>
+    <string name="action_settings">action</string>
+<!-- Main    -->
+   <string name="trivia_label">Trivia</string>
+   <string name="math_label">Math</string>
+   <string name="date_label">Date</string>
+   <string name="year_label">Year</string>
+
+   
+<!--    -->
+
+</resources>
